@@ -14,10 +14,6 @@
 
 -  AndroidManifest.xml
 
-    <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools">
-
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -224,8 +220,8 @@ public class MainToast extends AppCompatActivity {
 
 -  Color.xml
 
-    <?xml version="1.0" encoding="utf-8"?>
-<resources>
+     <?xml version="1.0" encoding="utf-8"?>
+ <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#0000FF</color>

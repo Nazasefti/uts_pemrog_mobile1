@@ -126,8 +126,7 @@ public class MainToast extends AppCompatActivity {
         fibNMinus2 = 0;
         updateCountDisplay();
     }
-}
-
+}   
 -  activity_toast.xml
 
     <?xml version="1.0" encoding="utf-8"?>
